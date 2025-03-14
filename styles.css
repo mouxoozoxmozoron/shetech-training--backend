@@ -1,0 +1,9 @@
+body {
+  padding-top: 70px;
+  background-color: lightblue;
+}
+
+.table-responsive {
+  overflow-x: auto;
+  white-space: nowrap;
+}
